@@ -33,5 +33,32 @@ So why do firms merge?
 
 Types of Synergies
     Revenue enhancements
+        Marketing and selling complementary products
+        Cross selling
+        Sharing distribution
+        raising prices after eliminating competition
     cost savings
+        Economies of scale
+        eliminating redundancies
+        easiest to realize
     Maybe even financial engineering
+        Interest expense tax shield
+        Tax inversion
+        Private to public artitrage
+
+Defining Value
+    Book Value
+        The value on the balance sheet
+        assets minus liabities
+    Equity Value
+        Share price x Fully dilluted shares outstanding
+    Enterprise value
+        Includes not only the market value of the company's ' shareholder equity but also it's 'net debt
+        Net Debt + preferred stock + miniority interests + market value of equity
+    Multiples
+        Valuetion multiple
+        Agnostic to the capital structure
+            EV / EBITDA
+        Leverage Multiple
+            Net Debt / EBITDA
+    Implied Equity Value
