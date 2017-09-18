@@ -1,0 +1,33 @@
+<html><head>
+    <meta charset="utf-8">
+    <title>HackBU Members</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  </head>
+  <body>
+    <h1>Check In Members</h1>
+    <span class="hue black"> Member name: <input id="name" type="name" name="name"><button id="submit" type="submit" name="btn">Submit!</button></span>
+    <br>
+    <div class="members_list">
+      <div class="title"> Members
+      <ul id="members"></ul>
+      <h1>
+
+
+    </h1>
+  </div>
+  </div>
+  <script type="text/javascript">
+  function addMember(name){
+    var ul=$('#members') ;
+    ul.append("<li>"+name.val()+"</li>");
+    name.val("");
+    }
+
+    $('#submit').click(function(){
+
+    addMember($('#name'));
+
+    });
+  </script>
+  </body>
+</html>
