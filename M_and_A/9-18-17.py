@@ -72,4 +72,38 @@ Fundamentals of Bank debt
             Longer maturity (7 years). Higher coupon than TLA
             appeals to institutional investors as there is no reinvestment risk
             Some high yield guys buy a part of TLB to get a seat at the table
-    Second Lien Term loans
+            Second Lien Term loans
+
+Bridge Loans
+    are temporary capital provided to borrower until the issuance of permanent capital
+    Particularly important in compeitive process
+    investment banks often do the commitment but take a fee
+    term is normally 12 months
+
+Mezzanine Debt
+    Mezzanine debt is the layer between traditional debt and equity
+    Highly flexible, less expensive than equity
+    since middle market firms cant go to traditional high yield markets
+        They go to mezz debt for their unsecured financing
+    For large borrowers, can either be a form of stretch financiing or a substitute for high yield in choppy markets
+    PIK interst (Payment in kind)
+        borrower does not pay cash interest but rather the interest compounds
+        Principal accretes, analogous to zero-coupon bonds
+        Toggle PIK
+            Turn on or off interest with a penalty of 25 to 75 bips
+
+Unitranche Loan * NEW *
+    combines senior debt and sub debt into one instrument
+    borrower pays one blended interest rate and complies with one set of covenants
+    More common in lower-middle market
+
+Equity contribution
+    equity is the plug. Whatever is still needed to fund acquisision
+    3 sources
+        Private equity sponsor || LBO firm
+        MGMT rollover equity
+        MGMT direct investment
+    % of capital struture varies over time
+        30-40% in healthy markets
+    Lenders like to see higher % as its an equity cusion for them
+    
